@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+print("Hello " + (name) + "!\nShall we find your alter ego?")
+street = input("What street do you live on? ")
+pet = input("Great! And what is your pet's name? ")
+print((name) + ", your alter ego is " + (pet) + " " + (street) + "!")
